@@ -12,6 +12,8 @@ plans and to assist them in narrowing their search for career
 advancement.
 ● It also allows staff and graduated veterans to share their thoughts
 on the subject based on their experiences.
+
+
 GENERAL DESCRIPTION:
 Obtain the user's information and provide the appropriate course. The
 "MADRA"exclusive chatbot assists in providing the user with the
